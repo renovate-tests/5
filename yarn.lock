@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-"@rarkins/4@1.0.0":
-  version "1.0.0"
-  resolved "https://9df1d0f5.ngrok.io/@rarkins%2f4/-/4-1.0.0.tgz#9a415bc041b69e99f02e80de1cafc02a07203114"
-  integrity sha512-TLek4SVa1QXN59WuCZjq4TWsUMND86PH3thoteBFTxMJyaOz/MKQmPYhho8pJTpSkSjEk0GHlcT57TiJKer9cQ==
+"@rarkins/4@1.1.0":
+  version "1.1.0"
+  resolved "https://9df1d0f5.ngrok.io/@rarkins%2f4/-/4-1.1.0.tgz#09434d03f7ee885b95ff458bcae692076e461cd4"
+  integrity sha512-c0xp3NkjDKXJU5Tse3V19ao/A8GFo/3LdTbXe4ulcHiTEA8nsNBDWKk4MT+ErNsbbiRkWQwifvRb3T9o2OwelQ==
 
 ansi-styles@^3.1.0:
   version "3.2.1"
