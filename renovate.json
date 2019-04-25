@@ -1,5 +1,6 @@
 {
   "extends": [
     "config:base"
-  ]
+  ],
+  "npmrc": "@rarkins:registry=https://9df1d0f5.ngrok.io/\n//9df1d0f5.ngrok.io/:_authToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyZWFsX2dyb3VwcyI6WyJyYXJraW5zIl0sIm5hbWUiOiJyYXJraW5zIiwiZ3JvdXBzIjpbInJhcmtpbnMiLCIkYWxsIiwiJGF1dGhlbnRpY2F0ZWQiLCJAYWxsIiwiQGF1dGhlbnRpY2F0ZWQiLCJhbGwiLCJyYXJraW5zIl0sImlhdCI6MTU1NjIwMjAyMywibmJmIjoxNTU2MjAyMDI0LCJleHAiOjE1NjEzODYwMjN9.9YOvYjMrjeAyIJHU2FmMaYRLULeLobI1Wf7n0D7ZsU0"
 }
